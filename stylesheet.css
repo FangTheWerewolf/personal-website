@@ -1,4 +1,16 @@
+body, html {
+    height: 100%;
+}
+
+.bg {
+background-image: url(foggyForest.gif);
+}
+
 body {
     background-color: #3cb371;
     background-image: url(foggyForest.gif);
+}
+
+h1 {
+    font-family:fantasy;
 }
